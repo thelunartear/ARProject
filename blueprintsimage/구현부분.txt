@@ -1,0 +1,3 @@
+첫 번째 사진 - BP_ARPawn에 Pawn과 Spawn되는 공의 거리, 던지는 힘 변수 구현
+두 번째 사진 - BP_ThrowBasketBall이라는 Actor를 따로 만들어 Ball에 물리적인 힘을 가하여 발사하게 함
+세 번째 사진 - GameMode에서 State가 BasketBall일 시, Pawn의 카메라 위치를 기준으로 떨어진 지점을 계산하여 BP_ThrowBasketBall이 실행되게 함
